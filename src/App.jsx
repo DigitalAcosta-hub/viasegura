@@ -41,7 +41,7 @@ export default function App() {
     }
 
     try {
-      const res = await fetch("http://localhost:3001/api/chat", {
+      const res = await fetch("http://http://http://http://http://https://viasegura-production.up.railway.app/api/chat/api/chat/api/chat/api/chat/api/chat/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
